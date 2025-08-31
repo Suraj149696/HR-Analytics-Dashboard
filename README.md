@@ -1,6 +1,7 @@
 # HR_Analytics_Dashboard
 
 Project Overview:
+
 This project involves developing a comprehensive HR Analytics Dashboard aimed at reducing employee attrition and improving workforce performance and retention. By leveraging advanced data cleaning, transformation, and sophisticated visualizations with Power BI, the dashboard provides critical insights into workforce dynamics and attrition trends. It highlights key factors influencing employee turnover and offers actionable intelligence to guide HR strategies, streamline recruitment, and enhance overall employee satisfaction and productivity. This empowers strategic HR decision-making and fosters a more engaged and efficient workforce.
 
 Steps Taken:
